@@ -10,17 +10,9 @@ export default function Home() {
           image='static/images/cards/JS.jpeg'
           href='/code/js'
           marginRight
-          title='JavaScript'
-        >
-          Arrays
-        </Card>
-        <Card 
-          image='static/images/cards/JS.jpeg'
-          href='/code/js'
-          marginRight
           title='Tópicos em JavaScript'
         >
-          Objetos e Funções
+          Arrays, Objetos e Funções
         </Card>
         <Card 
           image='static/images/cards/Redux.png'

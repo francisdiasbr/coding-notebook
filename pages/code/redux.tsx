@@ -1,8 +1,9 @@
 import React from 'react';
+import ReduxComponent from '../../modules/Redux';
 
 const ReduxPage = () => {
   return (
-    <div>Redux</div>
+    <ReduxComponent/>
   )
 }
 

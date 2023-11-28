@@ -1,9 +1,10 @@
 import React from 'react';
+import JSComponent from '../../modules/JavaScript';
 
-const JavaScriptPage = () => {
+const JsPage = () => {
   return (
-    <div>JS</div>
+    <JSComponent/>
   )
 }
 
-export default JavaScriptPage
+export default JsPage
