@@ -1,15 +1,7 @@
-import Card from '../components/Card'
+import HomeComponent from '../modules/Home'
 
 export default function Home() {
   return (
-    <>
-    <Card 
-      title='Título'
-    >
-      Description
-    </Card>
-    <h1>Hello, Next.js!</h1>
-    </>
-    )
-    
+    <HomeComponent />
+  );
 }
